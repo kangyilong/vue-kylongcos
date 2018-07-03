@@ -1,0 +1,1 @@
+mysql数据库中数据为sec.sql
